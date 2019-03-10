@@ -1,0 +1,9 @@
+{
+  "name": "Socket Traffic Server",
+  "version": "0.0.1",
+  "description": "Socket Traffic Brodcast Server",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}
